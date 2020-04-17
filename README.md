@@ -74,6 +74,7 @@ i.e. 100 * (number of CHAR occurences) / total characters in e-mail
 = denotes whether the e-mail was considered spam (1) or not (0), 
 i.e. unsolicited commercial e-mail.  
 
+## Attribute Statistics:
 | S.No |   Min:| Max: |  Average: | Std.Dev: | Coeff.Var_%: | 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 0 |   4.54 |  0.10455 |  0.30536 | 292 |         
@@ -141,3 +142,6 @@ i.e. unsolicited commercial e-mail.
 ## 9. Class Distribution:
 	Spam	  1813  (39.4%)
 	Non-Spam  2788  (60.6%)
+	
+- This file: 'spambase.DOCUMENTATION' at the UCI Machine Learning Repository
+[Link](http://www.ics.uci.edu/~mlearn/MLRepository.html)
